@@ -1,0 +1,56 @@
+body {
+    background-color: #66B7FF;
+    text-align: center;
+    margin: 0;
+}
+.nav{
+    background-color: #FFFFFF;
+    text-align: right;
+    height: 50px;
+    }
+
+form {
+    display: inline-block;
+    background-color: #FFFFFF;
+    margin: auto;
+    text-align: center;
+    margin-top: 20%;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 48px;
+}
+
+.signup {
+    width: 275px;
+    height: 275px;
+    text-align: center;
+}
+
+input {
+    display: inline;
+    margin-bottom: 10px;
+}
+
+.submitbutton {
+    margin-bottom: 10px;
+    background-color: #0180FF;
+    color: white;
+    width: 180px;
+}
+
+.about, .register{
+    background-color: #0180FF;
+    color: white;
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 30px;
+    width: 80px;
+}
+
+img {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
